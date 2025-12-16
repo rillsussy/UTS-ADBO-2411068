@@ -84,3 +84,4 @@ console.log(dika.ajukanCuti('Sakit', 1));
 console.log("\n--- 📊 Cek Sisa Kuota ---");
 console.log(buSari.tampilkanKuota());
 console.log(dika.tampilkanKuota());
+console.log(budi.tampilkanKuota());
